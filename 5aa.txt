@@ -1,3 +1,5 @@
 hello
 hi
 not good
+go
+ 7f9a839 (committing 3rd line in fb1 branch)
